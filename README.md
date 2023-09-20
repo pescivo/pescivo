@@ -1,4 +1,3 @@
-## Wassup Code Homies!
 
 ## WASSUP HOMIES 🤙🏼
 
