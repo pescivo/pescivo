@@ -1,6 +1,6 @@
 ## Wassup Code Homies!
 
-<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=pescivo&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=pescivo)](https://github.com/pescivo/github-readme-stats"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pescivo&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
